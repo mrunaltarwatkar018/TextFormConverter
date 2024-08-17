@@ -58,6 +58,6 @@ Navbar.propTypes = {
 };
 
 // Navbar.defaultProps = {
-//   title: 'My TextForm App',
+//   title: 'My TextFormConverter App',
 //   aboutText: 'About Us',
 // };

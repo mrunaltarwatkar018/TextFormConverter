@@ -49,7 +49,7 @@ function App() {
       <Router>
         <div>
           <Navbar
-            title="TextForm"
+            title="TextFormConverter"
             aboutText="About "
             mode={mode}
             toggleMode={toggleMode}
